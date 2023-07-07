@@ -23,7 +23,7 @@ After clicking on this button, you are able to request time off. Be sure to sele
 Use the login screen labeled as *Login to Manager Portal*. Provide your employee id number and password to be able to get access to the portal. Once logged in, you’ll be on the home page of the portal. There are four different actions you can take. 
 
 **Manage Employees:**
-After clicking on this button, you will be able to view all current employees. You are able to modify any information about them along with their “Admin” status. By being an administrator, they will be able to access the manager portal to change schedules. You are also able to add new employees, by providing all information for them and clicking submit. You are also able to delete employees from the database.
+After clicking on this button, you will be able to view all current employees. You are able to modify any information about them along with their “Admin” status. By being an administrator, they will be able to access the management portal to change schedules. You are also able to add new employees, by providing all information for them and clicking submit. You are also able to delete employees from the database.
 
 **Edit or Publish Schedules:**
 After clicking on this button, you are able to select between the current week and next week by means of a drop-down menu. If there are no posted schedules for this week, nothing will be displayed. These must be constantly updated by you, simply choose a picture to publish. Next week’s will not transfer to the current week, you must do that promptly at the end of the week.
@@ -44,14 +44,12 @@ It also must be able to be translated into other languages, since this McDonald�
 Must be able to have a secure database since there will be sensitive information stored.
 Must have a secure login, and not store login information.
 
-* **Employees:**
-  
+* **Employees:**  
 View published schedules - A page specifically for this purpose. Up to 2 weeks are visible. Drop-down menu to choose from. It will simply be displaying an image.
 Submit availability changes - A page for availability requests. Ideally, modify all 7 days of the week at once.
 Time off requests - A page for time off requests. Must not go through if it is not two weeks in advance. All fields must be filled out: start date, end date, and reason for the request.
 
 * **Admins:**
-
 Manage Employees - The manager is able to see all employees on this page. All employee information is able to be edited. Employees can be changed from crew to admin and vice versa on this page. Managers can add an employee here, by adding all information (name, id, phone number, email, admin status, etc). Employees can also be deleted.
 Publish and update schedules - A page for this purpose. Managers can choose which week it is from a drop-down menu. Must update an image.
 Acknowledge availability changes - A page for this purpose. Managers can acknowledge requests to send a notification out to employees.
