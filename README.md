@@ -55,5 +55,5 @@ Publish and update schedules - A page for this purpose. Managers can choose whic
 Acknowledge availability changes - A page for this purpose. Managers can acknowledge requests to send a notification out to employees.
 Approve/deny time off requests - A page for this purpose. Managers must be able to approve or deny requests. This action sends a notification to the respective employee.
 
-![DB Schema](https://ibb.co/dL6Z4WH "Database Schema")
+![DB Schema](images/frybox.png "Database Schema")
 
