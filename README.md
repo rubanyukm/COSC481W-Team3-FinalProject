@@ -43,11 +43,14 @@ The system’s biggest requirement was that it needs to be user-friendly. It nee
 It also must be able to be translated into other languages, since this McDonald’s is culturally diverse. There’s probably a Google extension that can be used. It must also be easily accessible, so a website would be the best route.
 Must be able to have a secure database since there will be sensitive information stored.
 Must have a secure login, and not store login information.
+
 **Employees:**
+  
 View published schedules - A page specifically for this purpose. Up to 2 weeks are visible. Drop-down menu to choose from. It will simply be displaying an image.
 Submit availability changes - A page for availability requests. Ideally, modify all 7 days of the week at once.
 Time off requests - A page for time off requests. Must not go through if it is not two weeks in advance. All fields must be filled out: start date, end date, and reason for the request.
 **Admins:**
+
 Manage Employees - The manager is able to see all employees on this page. All employee information is able to be edited. Employees can be changed from crew to admin and vice versa on this page. Managers can add an employee here, by adding all information (name, id, phone number, email, admin status, etc). Employees can also be deleted.
 Publish and update schedules - A page for this purpose. Managers can choose which week it is from a drop-down menu. Must update an image.
 Acknowledge availability changes - A page for this purpose. Managers can acknowledge requests to send a notification out to employees.
