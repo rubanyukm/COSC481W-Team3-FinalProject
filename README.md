@@ -57,21 +57,28 @@ Approve/deny time off requests - A page for this purpose. Managers must be able 
 
 
 **Images**
+
 ![DB Schema](images/final_schema.png "Database Schema")
+
 The Schema for the database.
 
 ![email](images/email_notif.png "Email Notification")
+
 Email notifications sent when the request is approved or denied.
 
 ![main](images/main_page.png "Main Page")
+
 The main page of the web app.
 
 ![manager](images/manager_portal.png "Manager Portal")
+
 The manager portal.
 
 ![schedule](images/schedule.png "Schedule")
+
 The schedule page.
 
 ![password](images/email_notif.png "Password")
+
 The password reset page.
 
